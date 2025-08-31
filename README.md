@@ -23,10 +23,5 @@ Once deployed with **GitHub Pages**, the site will be available at:
 - **JavaScript (ES6)**  
 - **Swiper.js** for project carousel  
 
-## 📂 Folder Structure
 
-my-portfolio/
-│-- index.html
-│-- style.css
-│-- script.js (if used)
-│-- images/ (profile & project images)
+

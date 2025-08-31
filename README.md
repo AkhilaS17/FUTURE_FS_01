@@ -5,7 +5,7 @@ It highlights my profile, skills, projects, and contact details in a modern and 
 
 ## 🚀 Live Demo
 Once deployed with **GitHub Pages**, the site will be available at:  
-👉 [https://github.com/AkhilaS17/FUTURE_FS_01/](https:///FUTURE_FS_01/)
+👉 [https://akhilas17.github.io/FUTURE_FS_01/](https:///FUTURE_FS_01/)
 
 *(Replace `your-username` with your actual GitHub username.)*
 
@@ -24,3 +24,4 @@ Once deployed with **GitHub Pages**, the site will be available at:
 - **Swiper.js** for project carousel  
 
 ## 📂 Folder Structure
+

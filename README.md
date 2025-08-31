@@ -25,4 +25,8 @@ Once deployed with **GitHub Pages**, the site will be available at:
 
 ## 📂 Folder Structure
 
-
+my-portfolio/
+│-- index.html
+│-- style.css
+│-- script.js (if used)
+│-- images/ (profile & project images)
